@@ -1,5 +1,5 @@
 # TestVagrant
-# This framework is based on RestAssured and TestNG to read and verify
+# This framework is based on TestNG
 # Java is used as Programming Language
 # Maven is used for dependency management
 # Spark report is being used for reporting
